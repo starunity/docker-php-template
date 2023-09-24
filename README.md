@@ -9,6 +9,7 @@ PHP Docker 开发部署模版
 - Docker
 - Visual Studio Code
 - Visual Studio Code Docker Extension
+- Visual Studio Code Dev Containers Extension
 
 ### 启动开发环境
 
